@@ -23,3 +23,10 @@ These might be the same person sometimes, i.e. someone in the middle of the chai
 *These are a list of qualities or characteristics (usually adjectives) you'd like the design to follow. The more specific you are with these the easier it will be for you to create a compelling design (e.g. don't use "Clean"). (2-3 words)*
 
 The design needs to inspire sufficient confidence in Xchain that users will invest the time in registering their details.
+
+* Professional but friendly
+* Reliable
+* Slightly subversive - disruptive to existing players
+* Playful?
+* Actively developed startup
+* Confidence
